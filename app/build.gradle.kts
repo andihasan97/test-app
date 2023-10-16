@@ -7,7 +7,7 @@ plugins {
 android {
     namespace = "com.andihasan7.testapp"
     compileSdk = 33
-    buildToolsVersion = "33.0.3"
+    buildToolsVersion = "34.0.0"
 
     defaultConfig {
         applicationId = "com.andihasan7.testapp"

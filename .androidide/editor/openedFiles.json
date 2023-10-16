@@ -1,32 +1,17 @@
 {
   "allFiles": [
     {
-      "file": "/storage/emulated/0/AndroidIDEProjects/Test App/build.gradle.kts",
-      "selection": {
-        "end": {
-          "column": 0,
-          "index": -1,
-          "line": 0
-        },
-        "start": {
-          "column": 0,
-          "index": -1,
-          "line": 0
-        }
-      }
-    },
-    {
       "file": "/storage/emulated/0/AndroidIDEProjects/Test App/app/build.gradle.kts",
       "selection": {
         "end": {
-          "column": 0,
-          "index": -1,
-          "line": 0
+          "column": 27,
+          "index": 171,
+          "line": 9
         },
         "start": {
-          "column": 0,
-          "index": -1,
-          "line": 0
+          "column": 27,
+          "index": 171,
+          "line": 9
         }
       }
     }
